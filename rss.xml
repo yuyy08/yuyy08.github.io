@@ -6,7 +6,7 @@
   <link href="http://example.com/rss.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-11-02T15:47:43.249Z</updated>
+  <updated>2025-11-06T02:35:31.028Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2025/11/05/wen/hexo.1/hexo/"/>
+    <id>http://example.com/2025/11/05/wen/hexo.1/hexo/</id>
+    <published>2025-11-05T12:13:25.359Z</published>
+    <updated>2025-11-06T02:35:31.028Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="搭建hexo"><a href="#搭建hexo" class="headerlink" title="搭建hexo"></a>搭建hexo</h1><hr><p>安装时参考的视频如下：<br>1.[简洁版]<a href="https://www.bilibili.com/video/BV1Ju4m1c7WR/?spm_id_from=333.1391.0.0&vd_source=5013dbe472a20dce71e2b2b8248ed2ca">https://www.bilibili.com/video/BV1Ju4m1c7WR/?spm_id_from=333.1391.0.0&amp;vd_source=5013dbe472a20dce71e2b2b8248ed2ca</a><br>2.[较详细版]<a href="https://www.bilibili.com/video/BV1URwNetEQ8/?spm_id_from=333.1391.0.0&vd_source=5013dbe472a20dce71e2b2b8248ed2ca">https://www.bilibili.com/video/BV1URwNetEQ8/?spm_id_from=333.1391.0.0&amp;vd_source=5013dbe472a20dce71e2b2b8248ed2ca</a></p><h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h2><p>1.创建github仓库时，仓库名必须和用户名完全一致。<br>2.仓库应该为开放而不是私密。</p><h2 id="遇到的问题"><a href="#遇到的问题" class="headerlink" title="遇到的问题"></a>遇到的问题</h2><p>前期一切正常，到最后一步进入时一直显示404。</p><h2 id="解决措施"><a href="#解决措施" class="headerlink" title="解决措施"></a>解决措施</h2><p>通过询问ai，发github仓库的部署分支设置存在问题。<br>如图<br><img src="/./hexo.jpg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;搭建hexo&quot;&gt;&lt;a href=&quot;#搭建hexo&quot; class=&quot;headerlink&quot; title=&quot;搭建hexo&quot;&gt;&lt;/a&gt;搭建hexo&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;安装时参考的视频如下：&lt;br&gt;1.[简洁版]&lt;a href=&quot;https://www.bilibi</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
