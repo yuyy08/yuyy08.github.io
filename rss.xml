@@ -6,7 +6,7 @@
   <link href="http://example.com/rss.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-11-06T03:09:17.853Z</updated>
+  <updated>2025-11-09T13:36:52.844Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,46 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>命令行</title>
+    <link href="http://example.com/2025/11/09/%E5%91%BD%E4%BB%A4%E8%A1%8C/"/>
+    <id>http://example.com/2025/11/09/%E5%91%BD%E4%BB%A4%E8%A1%8C/</id>
+    <published>2025-11-09T13:25:58.689Z</published>
+    <updated>2025-11-09T13:36:52.844Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Windows系统上的命令行"><a href="#Windows系统上的命令行" class="headerlink" title="Windows系统上的命令行"></a>Windows系统上的命令行</h1><h2 id="常用命令"><a href="#常用命令" class="headerlink" title="常用命令"></a>常用命令</h2><ul><li>dir #查看当前目录下文件</li><li>cd 目录名 #进入目录</li><li>cd .. #返回上级目录 </li><li>mkdir 目录名 #创建目录</li><li>rd 目录名 #删除目录</li><li>del 文件名 #删除文件</li><li>type #查看文件</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Windows系统上的命令行&quot;&gt;&lt;a href=&quot;#Windows系统上的命令行&quot; class=&quot;headerlink&quot; title=&quot;Windows系统上的命令行&quot;&gt;&lt;/a&gt;Windows系统上的命令行&lt;/h1&gt;&lt;h2 id=&quot;常用命令&quot;&gt;&lt;a href=&quot;#常</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>密码学</title>
+    <link href="http://example.com/2025/11/08/crypto/"/>
+    <id>http://example.com/2025/11/08/crypto/</id>
+    <published>2025-11-08T00:58:31.950Z</published>
+    <updated>2025-11-15T10:34:13.475Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="编码"><a href="#编码" class="headerlink" title="编码"></a>编码</h1><h2 id="ASCII编码"><a href="#ASCII编码" class="headerlink" title="ASCII编码"></a>ASCII编码</h2><p><img src="/images/ASCII%E7%BC%96%E7%A0%81%E8%A1%A8.jpg"><br>可以使用<code>ord()</code>函数将字符转换为ASCII码，使用<code>chr()</code>函数将ASCII码转换为字符。<br>例：</p><figure class="highlight python"><table><tr><td class="code"><pre><code class="hljs python"><span class="hljs-meta">&gt;&gt;&gt; </span>In[<span class="hljs-number">1</span>]: ch=<span class="hljs-string">&#x27;a&#x27;</span><br><span class="hljs-meta">&gt;&gt;&gt; </span>In[<span class="hljs-number">2</span>]: <span class="hljs-built_in">ord</span>(ch)<br>    Out[<span class="hljs-number">2</span>]: <span class="hljs-number">97</span><br><span class="hljs-meta">&gt;&gt;&gt; </span>In[<span class="hljs-number">3</span>]: <span class="hljs-built_in">chr</span>(<span class="hljs-number">97</span>)<br>    Out[<span class="hljs-number">3</span>]: <span class="hljs-string">&#x27;a&#x27;</span><br></code></pre></td></tr></table></figure><h3 id="Base系列编码"><a href="#Base系列编码" class="headerlink" title="Base系列编码"></a>Base系列编码</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;编码&quot;&gt;&lt;a href=&quot;#编码&quot; class=&quot;headerlink&quot; title=&quot;编码&quot;&gt;&lt;/a&gt;编码&lt;/h1&gt;&lt;h2 id=&quot;ASCII编码&quot;&gt;&lt;a href=&quot;#ASCII编码&quot; class=&quot;headerlink&quot; title=&quot;ASCII编码&quot;&gt;&lt;/</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>hexo</title>
