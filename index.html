@@ -209,7 +209,11 @@ type #查看文件
               <p class="post-excerpt text-hacker-color3 group-hover:text-white">
                 编码ASCII编码可以使用ord()函数将字符转换为ASCII码，使用chr()函数将ASCII码转换为字符。例：
 &amp;gt;&amp;gt;&amp;gt; In[1]: ch=&amp;#x27;a&amp;#x27;&amp;gt;&amp;gt;&amp;gt; In[2]: ord(ch)    Out[2]: 97&amp;gt;&amp;gt;&amp;gt; In[3]: chr(97)    Out[3]: &amp;#x27;a&amp;#x27;
-Base系列编码...
+Base系列编码Base 系列编码原理
+一. 通用编码步骤
+原始数据转二进制   将待编码的每个字符按 ASCII 码转成 8 位二进制。
+重新分组   按新的 bit 数（4、5 或 6）从左到右切分，不足时补 0。
+转十...
               </p>
             </a>
           </div>
